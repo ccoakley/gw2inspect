@@ -1,0 +1,8 @@
+cache:
+  filename: shelve
+  load: merge
+accounts:
+  - name: main
+    key: api-key-for-main-account
+  - name: second
+    key: api-key-for-second-account
