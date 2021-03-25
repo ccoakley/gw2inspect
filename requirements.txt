@@ -1,4 +1,4 @@
 argh==0.26.2
 GuildWars2-API-Client==0.5.9
 python-dateutil==2.8.1
-PyYAML==5.1.2
+PyYAML==5.4
